@@ -34,16 +34,7 @@ gender = driver.find_element_by_id('u_0_h').click()
 #Extra email
 email2 = driver.find_element_by_id('u_0_9')
 
-#Input all of the user's information
-firstName.send_keys("Ryan")
-lastName.send_keys("Kavanaugh")
-email.send_keys('rjkavanaugh@gmail.com')
-password.send_keys('Hulk1234')
-month.select_by_visible_text('Aug')
-day.select_by_visible_text('16')
-year.select_by_value('1991')
-    #Email confirmation
-email2.send_keys('rjkavanaugh@gmail.com')
+
 
 #Create Account Button
 driver.find_element_by_id('u_0_l').click()
