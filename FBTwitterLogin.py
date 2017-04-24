@@ -8,7 +8,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver import ActionChains
-#from selenium import time
 
     #Tools to disable web notifications in facebook
 chrome_options = webdriver.ChromeOptions()
