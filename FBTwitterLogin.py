@@ -60,7 +60,7 @@ twittername = twitterurldriver.find_element_by_class_name('js-signin-email')
 twittername.send_keys('timothytehstah@gmail.com')
 twitterpass = twitterurldriver.find_element_by_name('session[password]')
 twitterpass.send_keys('Test12345$')
-#
+
 twitterurldriver.find_element_by_class_name('js-submit').click()
 
 #Wait for browser to load
