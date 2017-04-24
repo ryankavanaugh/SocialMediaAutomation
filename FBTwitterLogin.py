@@ -1,5 +1,5 @@
 #=============================================================================================
-#               Written in SELENIUM & PYTHON3 By Ryan Kavanaugh
+#               Written in SELENIUM & PYTHON 3 By Ryan Kavanaugh
 # INFO-> Program to login robo tester facebook account, login robo tester twitter account,
 #       go to celebrity twitter page, and send my friend Ted a facebook friend request. <-
 #=============================================================================================
