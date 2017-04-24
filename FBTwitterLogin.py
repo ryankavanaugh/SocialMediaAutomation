@@ -67,16 +67,6 @@ twitterurldriver.find_element_by_class_name('js-submit').click()
 #Wait for browser to load
 twitterurldriver.implicitly_wait(6)
 
-#======Section to be turned into auto posting on twitter========
-#
-#twitterurldriver.find_element_by_id('menu-0').click()
-# #share the link
-#link = twitterurldriver.find_element_by_class_name('js-dropdown-toggle')
-#
-#link.select_by_visible_text('Copy link to Tweet')
-#
-#======Section to be turned into auto posting on twitter========
-
 #============================================================
 #             Go To Ted's Page/Friend Request Ted
 #============================================================
